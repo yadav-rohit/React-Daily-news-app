@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NBC 5 Dallas-Fort Worth" },
+      "author": "NBC 5 Dallas-Fort Worth",
+      "title": "North Texas Radio Host Gets 3 Life Prison Terms for Targeting Listeners in Scheme - NBC 5 Dallas-Fort Worth",
+      "description": "A Texas radio host was sentenced to three life prison sentences Monday for a Ponzi scheme.",
+      "url": "https://www.nbcdfw.com/news/local/north-texas-radio-host-gets-3-life-prison-terms-for-targeting-listeners-in-scheme/2798275/",
+      "urlToImage": "https://media.nbcdfw.com/2021/11/william-neil-doc-gallagher-1.jpg?quality=85&strip=all&fit=1200%2C675",
+      "publishedAt": "2021-11-02T16:43:58Z",
+      "content": "A Texas radio host was sentenced to three life prison sentences Monday for a Ponzi scheme in which he bilked elderly listeners out of millions of dollars.\r\nWilliam Neil Doc Gallagher also got a 30-ye… [+1383 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Joan E Greve, Fiona Harvey, Martin Pengelly",
+      "title": "House Democrats push for twin votes despite Manchin doubts over spending bill – live - The Guardian",
+      "description": "Plan is to hold votes on infrastructure and reconciliation bills later this week, amid fears $1.75tn package may not pass Senate – get the latest",
+      "url": "https://www.theguardian.com/us-news/live/2021/nov/02/biden-infrastructure-reconciliation-joe-manchin-house-democrats-us-politics-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/e58d0952d54f25d192049e0753d841f5f13b325b/0_3_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6e1fed6e982ec6b02543330dac43fb30",
+      "publishedAt": "2021-11-02T16:29:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Elizabeth A. Harris, Alexandra Alter, David McCabe",
+      "title": "Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal - The New York Times",
+      "description": "The Biden administration’s rejection of the proposed publishing merger reflects a changing atmosphere in Washington toward consolidation.",
+      "url": "https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/11/02/books/02PRHSS1/merlin_152634471_bf331826-82a7-4824-82c0-4e12f561cba5-facebookJumbo.jpg",
+      "publishedAt": "2021-11-02T15:55:07Z",
+      "content": "In one of its first major antitrust lawsuits, the Biden administration on Tuesday sued to stop Penguin Random House, the largest publisher in the United States, from acquiring its rival Simon &amp; S… [+1174 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jesse Pound",
+      "title": "Shares of Avis double in single day as huge earnings beat sends hedge fund shorts running - CNBC",
+      "description": "The company reported $10.74 in earnings per share for the third quarter, trouncing Refinitiv's estimates by more than $4.",
+      "url": "https://www.cnbc.com/2021/11/02/avis-budget-car-rental-companys-shares-soar-after-huge-earnings-beat.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104140776-GettyImages-494966180.jpg?v=1635865795",
+      "publishedAt": "2021-11-02T15:45:48Z",
+      "content": "Car rental stock Avis Budget surged Tuesday after the company reported a stronger-than-expected third quarter that sparked massive trading volume.\r\nThe company reported $10.74 in per-share earnings f… [+1528 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Stephanie Busari and Sheena McKenzie, CNN",
+      "title": "People buried under collapsed luxury high-rise in Nigeria call for help - CNN",
+      "description": "It had been advertised as \"Luxury in the Sky,\" a glamorous residential high-rise in an upmarket area of Lagos, where apartments started at $1.2 million a unit.",
+      "url": "https://www.cnn.com/2021/11/02/africa/lagos-nigeria-building-collapse-rescue-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211102054648-01-lagos-nigeria-building-collapse-11-01-2021-super-tease.jpg",
+      "publishedAt": "2021-11-02T15:45:00Z",
+      "content": "Lagos, Nigeria (CNN)It had been advertised as \"Luxury in the Sky,\" a glamorous residential high-rise in an upmarket area of Lagos, where apartments started at $1.2 million a unit. \r\nBut on Monday, th… [+4318 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "John Timmer",
+      "title": "Instruments on Hubble in safe mode; NASA trying to understand why - Ars Technica",
+      "description": "After two spontaneous shutdowns in two days, NASA has kept hardware offline.",
+      "url": "https://arstechnica.com/science/2021/11/hubbles-science-on-hold-as-instruments-switch-into-safe-mode/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/europa01-hsta-1920x1080-160919-760x380.png",
+      "publishedAt": "2021-11-02T15:33:29Z",
+      "content": "Enlarge/ Hubble Space Telescope above Earth, photographed during STS-125, Servicing Mission 4, May 2009.\r\n65 with 46 posters participating\r\nOn Monday, NASA announced that the Hubble Space Telescope's… [+1576 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jordan Novet",
+      "title": "Microsoft launches Loop, an Office app for helping workers stay on top of projects - CNBC",
+      "description": "Microsoft's newest Office technology will give people a way to collaborate on documents in real time, from inside familiar programs such as Teams.",
+      "url": "https://www.cnbc.com/2021/11/02/microsoft-launches-loop-office-app-for-real-time-collaboration.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106968958-1635810382765-gettyimages-626738954-93605500.jpeg?v=1635810720",
+      "publishedAt": "2021-11-02T15:00:02Z",
+      "content": "Microsoft said at its online-only Ignite conference on Tuesday that it will release a new Office application called Loop that people can use to collaborate on projects.\r\nThe effort shows Microsoft is… [+3456 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jon Porter",
+      "title": "Razer’s latest productivity peripherals are focused on low noise and long battery life - The Verge",
+      "description": "Razer has announced the new Pro Click Mini wireless mouse, the Pro Type Ultra wireless keyboard, and the Pro Glide XXL mouse mat. The mouse and keyboard feature improved battery life.",
+      "url": "https://www.theverge.com/2021/11/2/22757434/razer-pro-click-mini-type-ultra-glide-xxl-wireless-keyboard-mouse-mat-price-release-date-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OpXirRNN4tujQUGlxERMkLTNMMI=/0x254:3540x2107/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22976618/Key_Visual_1_crop.jpg",
+      "publishedAt": "2021-11-02T15:00:00Z",
+      "content": "Theres also a new giant mouse mat\r\nThe Pro Type Ultra and Pro Click Mini. \r\nImage: Razer\r\nRazer has updated its suite of productivity peripherals with the new Pro Click Mini wireless mouse, the Pro T… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Caitlin Ostroff",
+      "title": "Tesla, Pfizer, Lyft: What to Watch in the Stock Market Today - The Wall Street Journal",
+      "description": "Tesla shares fell after Elon Musk tweeted that a deal with Hertz isn’t signed yet",
+      "url": "https://www.wsj.com/articles/tesla-pfizer-lyft-what-to-watch-in-the-stock-market-today-11635853108",
+      "urlToImage": "https://images.wsj.net/im-427013/social",
+      "publishedAt": "2021-11-02T14:48:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "College Football Playoff Rankings prediction: Cincinnati on outside as SEC, Big Ten split initial top four - CBS Sports",
+      "description": "Jerry Palm provides his prediction for how the first CFP Rankings will look Tuesday night",
+      "url": "https://www.cbssports.com/college-football/news/college-football-playoff-rankings-prediction-cincinnati-on-outside-as-sec-big-ten-split-initial-top-four/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/02/7db6d323-75fe-4ad9-805c-2321a16a171e/thumbnail/1200x675/7f34b5dc862c8644d65a8a7826f39504/graphic-osucfp.png",
+      "publishedAt": "2021-11-02T14:45:26Z",
+      "content": "With the initial College Football Playoff Rankings for the 2021 season set to be released Tuesday night, we do not want to wait that long to get a taste of how the CFP Selection Committee will be ran… [+1953 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Elon Musk is willing to spend $6 billion to fight world hunger, but with a plan | World | WION - WION",
+      "description": "If the UN can prove how Elon Musk can solve world hunger, he is ready to invest.#ElonMusk #UNFWP #TeslaAbout Channel: WION -The World is One News, examines g...",
+      "url": "https://www.youtube.com/watch?v=pKHsPqqaxWE",
+      "urlToImage": "https://i.ytimg.com/vi/pKHsPqqaxWE/maxresdefault.jpg",
+      "publishedAt": "2021-11-02T14:43:32Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Thomas Gibbons-Neff, Sami Sahak",
+      "title": "Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital - The New York Times",
+      "description": "No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August.",
+      "url": "https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/11/02/world/02afghanistan-1sub/02afghanistan-1sub-facebookJumbo.jpg",
+      "publishedAt": "2021-11-02T14:33:50Z",
+      "content": "At least 25 people were killed and more than a dozen were wounded during an attack on a military hospital in the Afghan capital of Kabul on Tuesday, according to local officials, with gunfire and exp… [+919 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By <a href=\"/profiles/melissa-mahtani\">Melissa Mahtani</a>, <a href=\"/profiles/veronica-rocha\">Veronica Rocha</a>, Melissa Macaya,<a href=\"/profiles/adrienne-vogt\" target=\"_blank\"> Adrienne Vogt</a> and <a href=\"/profiles/meg-wagner\">Meg Wagner</a>, CNN",
+      "title": "Live updates: Election Day 2021 results and news - CNN",
+      "description": "View the latest Election Day news and results, including updates on the New York City mayoral race, Virginia and New Jersey governor's races and other high-profile contests.",
+      "url": "https://www.cnn.com/politics/live-news/election-day-results-11-02-21/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211101164751-05-early-voting-2021-virginia-super-tease.jpg",
+      "publishedAt": "2021-11-02T14:26:40Z",
+      "content": "If Terry McAuliffe wins, Democrats will take the victory as validation that a state that has trended blue over the last decade still stands behind President Biden's agenda and against Republicans, ev… [+4103 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Eric Levenson, CNN",
+      "title": "Opening statements expected to begin in Kyle Rittenhouse's homicide trial in Kenosha - CNN",
+      "description": "Opening statements are expected to begin Tuesday in the homicide trial of Kyle Rittenhouse, the armed Illinois teenager who killed two people and wounded another during unrest in Kenosha, Wisconsin, last summer, in a case that will test the distinction betwee…",
+      "url": "https://www.cnn.com/2021/11/02/us/kyle-rittenhouse-trial-kenosha/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211031101004-01-kyle-rittenhouse-trial-walkup-super-tease.jpg",
+      "publishedAt": "2021-11-02T14:06:13Z",
+      "content": "(CNN)Opening statements are expected to begin Tuesday in the homicide trial of Kyle Rittenhouse, the armed Illinois teenager who killed two people and wounded another during unrest in Kenosha, Wiscon… [+6294 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Rich Mendez",
+      "title": "GOP pollster sees likely Republican win in Virginia governor race — and says it will be a bad omen for Democrats - CNBC",
+      "description": "Frank Luntz, a GOP pollster and strategist, told CNBC on Tuesday that there's about an 80% chance that Republican Glenn Youngkin beats Democrat Terry McAuliffe.",
+      "url": "https://www.cnbc.com/2021/11/02/virginia-governor-election-gop-pollster-frank-luntz-says-glenn-youngkin-win-likely.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106967800-1635521766255-gettyimages-1349844111-am2_0883_2021102863202463.jpeg?v=1635521813",
+      "publishedAt": "2021-11-02T14:01:55Z",
+      "content": "GOP pollster and strategist Frank Luntz predicted Tuesday that Republican Glenn Youngkin is likely to defeat Democrat Terry McAuliffe in Virginia's close gubernatorial race, setting up a shaky midter… [+2594 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Adela Suliman",
+      "title": "Mariah Carey to Texas bar that banned 'All I Want for Christmas' until Dec. 1: 'It's time' - The Washington Post",
+      "description": "The hit, a staple of the Christmas season, continues to delight and vex listeners across the globe.",
+      "url": "https://www.washingtonpost.com/arts-entertainment/2021/11/02/mariah-carey-christmas-texas-bar/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WWGYIEB4VVAUPMTRUWV4ZOYKM4.jpg&w=1440",
+      "publishedAt": "2021-11-02T13:58:47Z",
+      "content": "A sign on its jukebox last week said that the catchy tune will be skipped if played before then, and that after that date it can be played but only one time a night.\r\nThe bar did not immediately resp… [+2107 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "kelli boyle",
+      "title": "Kristen Stewart Is Engaged to Dylan Meyer After 2 Years Together - E! NEWS",
+      "description": "Their happiest season: Kristen Stewart and girlfriend Dylan Meyer are officially engaged! Over a year ago, the Twilight star revealed she was ready to propose to the love of her life.",
+      "url": "https://www.eonline.com/news/1089817/kristen-stewart-is-engaged-to-dylan-meyer-after-2-years-together",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021412/rs_1200x1200-210512052459-1200-Kristen-Stewart-Dylan-Meyer-Holding-Hands.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2021-11-02T13:55:00Z",
+      "content": "She wanted to go all out for The One. \"When you know, you know. You know what I mean?\" Stewart gushed of her \"brilliant\" girlfriend. \"There is nothing like feeling sure about anything, because we don… [+1485 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Greg Evans",
+      "title": "‘Morbius’ Trailer: Jared Leto Goes Full Vampire, Name Drops Venom In New Clip - Deadline",
+      "description": "Talk about bad blood. Jared Leto’s Dr. Michael Morbius, suffering from a rare blood disorder, undergoes his own experimental treatment only to find an inner darkness unleashed. That’s all the backstory you’ll need for this new trailer from Columbia Pictures f…",
+      "url": "https://deadline.com/2021/11/morbius-trailer-jared-leto-1234866234/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/11/MORBIUS_Trailer_11.jpg?w=1024",
+      "publishedAt": "2021-11-02T13:33:00Z",
+      "content": "Talk about bad blood. Jared Leto’s Dr. Michael Morbius, suffering from a rare blood disorder, undergoes his own experimental treatment only to find an inner darkness unleashed.\r\nThat’s all the backst… [+1101 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "NFL Staff",
+      "title": "2021 B/R NFL Power Rankings: Where Does Every Team Stand Entering Week 9? - Bleacher Report",
+      "description": "It was bound to happen sooner or later: a week of seismic shakeup across the  NFL . The kind of slate of upsets, letdowns and big performances that gives power rankings like these the snow globe treatment...",
+      "url": "https://bleacherreport.com/articles/2949904-2021-br-nfl-power-rankings-where-does-every-team-stand-entering-week-9",
+      "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/918/512/9fb3c626be1cb84e3e3b5ee58b09fadf_crop_exact.jpg?w=1200&h=1200&q=75",
+      "publishedAt": "2021-11-02T13:09:04Z",
+      "content": "Bob Levey/Getty Images\r\nLast Week: 2\r\nWeek 8 Result: Won at Houston 38-22\r\nAfter outlasting the Lions in Los Angeles last week, the Rams continued their tour of the league's tomato cans in Week 8 wit… [+1755 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Alden Gonzalez",
+      "title": "World Series 2021 - Game 6 a high school reunion for MLB aces Max Fried, Jack Flaherty, Lucas Giolito - ESPN",
+      "description": "When the Braves' Max Fried starts Game 6, his old Harvard-Westlake teammates -- the Cardinals' Jack Flaherty and the White Sox's Lucas Giolito -- will cheer him from the stands.",
+      "url": "https://www.espn.com/mlb/insider/story/_/id/32527666/world-series-2021-game-6-high-school-reunion-mlb-aces-max-fried-jack-flaherty-lucas-giolito",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1101%2Fr931744_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-11-02T12:33:29Z",
+      "content": "HOUSTON -- The planning began early last week.\r\nNearly a decade has passed since Jack Flaherty, Max Fried and Lucas Giolito teamed up at Harvard-Westlake, an uber-exclusive, highly regarded private s… [+8647 chars]"
+    }
+  ]
+}
